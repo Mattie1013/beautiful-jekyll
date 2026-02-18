@@ -1,6 +1,6 @@
 ---
 layout: liquid-table
-title: "amiright?"
+title: "Table Demo"
 reynolds:
   strengths:
     - good father
@@ -21,8 +21,8 @@ gosling:
     - not ryan reynolds
 ---
 
-![](/beautiful-jekyll/ryan-v-ryan.jpg)
+![](/assets/img/ryan-v-ryan.jpg)
 
 ### Lorem Ipsum
 
-Lorem ipsum dolor sit amet....
+This page demonstrates a custom Liquid template table using front matter lists.
