@@ -20,9 +20,11 @@ I am currently pursuing a Master’s in Program Evaluation & Data Analytics at A
 I currently work in healthcare analytics, focusing on audit reporting, operational performance, and continuous improvement initiatives.
 
 ## My Technical Skills
+
 - R
 - Tableau
 - Excel automation
 - Power BI
 - Program evaluation frameworks
+
 
