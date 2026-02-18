@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who I am
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sarah Marsura, and this is my professional portfolio site.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am currently pursuing a Master’s in Program Evaluation & Data Analytics at Arizona State University.
 
-What else do you need?
+## My Focus Areas
 
-### My story
+- Data analytics & visualization
+- Program evaluation methods
+- Process improvement & performance measurement
+- Dashboard development (Power BI, Excel)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Professional Experience
+
+I currently work in healthcare analytics, focusing on audit reporting, operational performance, and continuous improvement initiatives.
+
+
